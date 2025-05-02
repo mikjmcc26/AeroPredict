@@ -15,7 +15,7 @@ To use this project, simply run the provided Jupyter notebook (AirPrediction.ipy
 - Time Period: March 2004 – February 2005
 - Location: Roadside monitoring station in an Italian city
 
-### Features include:
+#### Features include:
 - Chemical sensor readings (PT08.S1(CO), PT08.S2(NMHC), etc.)
 - Gas concentrations (CO(GT), NOx(GT), NO2(GT))
 - Weather data (T for temperature, RH for relative humidity, AH for absolute humidity)
