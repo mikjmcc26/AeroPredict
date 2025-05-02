@@ -8,6 +8,18 @@ Our model leverages chemical sensor responses and meteorological data to accurat
 ## Usage & Set Up
 To use this project, simply run the provided Jupyter notebook (AirPrediction.ipynb). It will walk you through the full process—from loading and cleaning the dataset to training the model and visualizing predictions. The notebook is fully annotated and ready for experimentation or extension.
 
+### Requirements
+Running the notebook requires the following libaries:
+- `pandas`
+- `numpy`
+- `scikit-learn`
+- `matplotlib`
+- `seaborn`
+
+### Script Command 
+Open the Jupyter Notebook with the following command, assuming all dependicies are properly installed: `jupyter notebook AirPrediction.ipynb`
+
+
 ## Dataset 
 - Source: UCI Machine Learning Repository - Air Quality Data Set
 - Kaggle Link: https://www.kaggle.com/datasets/fedesoriano/air-quality-data-set?resource=download
