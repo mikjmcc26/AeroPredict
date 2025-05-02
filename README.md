@@ -1,5 +1,10 @@
 # AeroPredict: Air Quality Prediction Using Machine Learning
 
+## Authors
+Chase Woodfill and Mikayla McCormack
+
+This project was developed as part of a course project, inspired by real-world environmental concerns and an interest in applying machine learning to public health and sustainability.
+
 ## Overview
 AeroPredict is a machine learning project to forecast air pollution levels using historical sensor data. We built a predictive model focused on carbon monoxide (CO) concentration using the Air Quality Data Set from the UCI Machine Learning Repository. The goal is to provide early warnings about deteriorating air quality, aiding both individuals and policymakers in making informed, proactive decisions.
 
@@ -52,11 +57,6 @@ We used Random Forest Regression from scikit-learn:
 ### Performance Metrics
 - **Mean Squared Error (MSE): ~0.359**
 - **R^2 Score: ~0.844**
-
-## Authors
-Chase Woodfill and Mikayla McCormack
-
-This project was developed as part of a course project, inspired by real-world environmental concerns and an interest in applying machine learning to public health and sustainability.
 
 ## Acknowledgements
 University of Tennessee, Knoxville. CS426/526.
