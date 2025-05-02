@@ -45,3 +45,6 @@ We used Random Forest Regression from scikit-learn:
 Chase Woodfill and Mikayla McCormack
 
 This project was developed as part of a course project, inspired by real-world environmental concerns and an interest in applying machine learning to public health and sustainability.
+
+## Acknowledgements
+University of Tennessee, Knoxville. CS426/526.
