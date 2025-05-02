@@ -38,8 +38,8 @@ We used Random Forest Regression from scikit-learn:
 - Target: CO(GT) 
 
 ### Performance Metrics
-**Mean Squared Error (MSE): ~0.359**
-**R^2 Score: ~0.844**
+- **Mean Squared Error (MSE): ~0.359**
+- **R^2 Score: ~0.844**
 
 ## Authors
 Chase Woodfill and Mikayla McCormack
